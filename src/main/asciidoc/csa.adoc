@@ -29,6 +29,7 @@ include::_doc_general_attributes.adoc[]
 ponomarev@corchestra.ru
 
 icon:twitter[size=lg] @inponomarev
+
 == План
 
 1. Ограничения и возможности.
