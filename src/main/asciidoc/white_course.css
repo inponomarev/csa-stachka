@@ -465,11 +465,6 @@ td.valign-top {
 .reveal .line-through {
     text-decoration: line-through;
 }
-
-body {
-  background-image: url(pattern.svg);
-  background-repeat: repeat;
-}
   
 
 .reveal  .imageblock {
